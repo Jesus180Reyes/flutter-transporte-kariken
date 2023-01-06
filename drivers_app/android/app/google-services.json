@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580716516093",
+    "project_id": "flutter-taxi-app-e380e",
+    "storage_bucket": "flutter-taxi-app-e380e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580716516093:android:8a8f651219e9c42b0aa494",
+        "android_client_info": {
+          "package_name": "com.jesusreyes.taxi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580716516093-p0co7ri2259mpdkfd26ftta5o0dtj44l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATC94-b0I_yfUxJfOdIdP5wQk1LxEBFRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580716516093-p0co7ri2259mpdkfd26ftta5o0dtj44l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
